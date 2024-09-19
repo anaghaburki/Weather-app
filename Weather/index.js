@@ -4,7 +4,7 @@
         const weatherDataSection = document.getElementById("weather-data");
         weatherDataSection.style.display = "block";
       
-        const apiKey = "eb268bfca0c4bdf6c4b0b327e841ca4e";
+        const apiKey = "YOUR API KEY";
 
       
       
